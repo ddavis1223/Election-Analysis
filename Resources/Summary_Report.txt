@@ -20,7 +20,7 @@ This analysis determined several outcomes which are listed below.
 
 * In Arapahoe County, there were 24,801 votes cast in this election with a percentage total of 6.7%.
 * In Jefferson County, there were 38,855 votes cast in this election with a percentage total of 10.5%.
-* In the final county - Denver County cast 306,055 votes in this elecition with a percentage of 82.8%.
+* In the final county - Denver County cast 306,055 votes in this election with a percentage of 82.8%.
 
 * Denver County produced the largest number of votes.
 
