@@ -9,9 +9,9 @@ A Colorado Board of Elections committee entrusted me to finish the political rac
 2. Get a complete list of candidates who received votes.
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
-5. Deternine the winner of the election based on popular vote.
+5. Determine the winner of the election based on popular vote.
 6. The voter turnout for each county
-7. The percentage of votes fron each county out of the total count
+7. The percentage of votes from each county out of the total count
 8. The county with the highest turnout
 
 ## Results
@@ -32,5 +32,5 @@ This analysis determined several outcomes which are listed below.
 ![Election_Results](Resources/Election_Results.png)
 
 ## Summary
-This content can be involved for certain adjustments for any political race to state how an individual decided on the breakdown of the points that they
-thought often about and we can likewise remember the demographics of the individuals for the region.
+This script can be used with some modifications for any political race to display the candidate's viewpoints that determine
+the winner of that particular county.  It can also be used to showcase the demographics of the individuals within the region.
