@@ -32,5 +32,5 @@ This analysis determined several outcomes which are listed below.
 ![Election_Results](Resources/Election_Results.png)
 
 ## Summary
-This content can be involved for certain adjustments for any political race to state how an individual decided on the breakdown of the points that they
-thought often about and we can likewise remember the demographics of the individuals for the region.
+This script can be used with some modifications for any political race to display the candidate's viewpoints that determine
+the winner of that particular county.  It can also be used to showcase the demographics of the individuals within the region.
